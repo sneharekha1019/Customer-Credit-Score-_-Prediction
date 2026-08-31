@@ -4,9 +4,6 @@ A Machine Learning web application that predicts a customer's credit score as **
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to try the app](https://your-username-customer-credit-score-prediction.streamlit.app)
 
 ---
 
